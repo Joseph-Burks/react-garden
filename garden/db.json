@@ -1,0 +1,88 @@
+{
+	"plants": [
+		{
+			"name": "Basil",
+			"type":  "Herb",
+			"image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/58573c5d-a0b5-4cbe-aa76-6286fa062f14-3a43658.jpg?quality=90&resize=960%2C640",
+			"id": 1
+		},
+        {
+			"name": "Cilantro",
+			"type":  "Herb",
+			"image": "https://hosstools.com/wp-content/uploads/2020/10/santo-cilantro.jpg",
+			"id": 2
+		},
+        {
+			"name": "Roses",
+			"type":  "Flower",
+			"image": "https://www.gardeningknowhow.com/wp-content/uploads/2019/11/red-rose.jpg",
+			"id": 3
+		},
+        {
+			"name": "Tulips",
+			"type":  "Flower",
+			"image": "https://ngb.org/wp-content/uploads/2018/09/longfield.gardens.Sept_.jpg",
+			"id": 4
+		},
+        {
+			"name": "Carnations",
+			"type":  "Flower",
+			"image": "https://cdn.britannica.com/04/204204-050-13AFD426/red-carnation-flowers.jpg",
+			"id": 5
+		},
+        {
+			"name": "Rosemary",
+			"type":  "Herb",
+			"image": "https://www.almanac.com/sites/default/files/styles/opengraph/public/image_nodes/rosemary-foliage.jpg?itok=tAZwmX4e",
+			"id": 6
+		},
+        {
+			"name": "Thyme",
+			"type":  "Herb",
+			"image": "https://www.almanac.com/sites/default/files/styles/opengraph/public/image_nodes/rosemary-foliage.jpg?itok=tAZwmX4e",
+			"id": 7
+		},
+        {
+			"name": "Bluebonnets",
+			"type":  "Flower",
+			"image": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/T6ECJV2LMJAXPHE622LRNYPRL4.jpg",
+			"id": 8
+		},
+        {
+			"name": "Avocado",
+			"type":  "Fruit, Tree",
+			"image": "https://homesteadandchill.com/wp-content/uploads/2020/05/how-to-grow-avocado-trees-feature-full-e1588521966469-1140x1364.jpeg",
+			"id": 9
+		},
+        {
+			"name": "Peach",
+			"type":  "Fruit, Tree",
+			"image": "https://cdn.vox-cdn.com/thumbor/Zat_mHBVbO2OzC8qBPmZZ6acvg8=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20050631/AdobeStock_192943648.0.jpeg",
+			"id": 10
+		},
+        {
+			"name": "Lemom",
+			"type":  "Fruit, Tree",
+			"image": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/ripe-lemons-on-lemon-tree.jpg",
+			"id": 11
+		},
+        {
+			"name": "Crape Myrtle",
+			"type":  "Flower, Tree",
+			"image": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/lagerstroemia-indica-crape-myrtle-flowering-tree-alamy-stock-photo_12450.jpg",
+			"id": 12
+		},
+        {
+			"name": "Money Tree",
+			"type":  "Tree",
+			"image": "https://www.mydomaine.com/thmb/Iu2SFEytalH3XNtMXxIN0TmSEQY=/791x1024/filters:no_upscale():max_bytes(150000):strip_icc()/the-sill_money-tree_hover_cream_1024x1024-0c2f054720584d4a94f20068869c5c78.jpg",
+			"id": 13
+		},
+        {
+			"name": "Dragon Tree",
+			"type":  "Tree",
+			"image": "https://www.houseplantsexpert.com/image-files/Dracaena-marginata.jpg",
+			"id": 14
+		}
+	]
+}
